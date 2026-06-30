@@ -47,6 +47,7 @@ Badges
 <img width="1027" height="723" alt="image" src="https://github.com/user-attachments/assets/b0a19fbd-21bd-4af2-a0e8-5197fc72ae4c" />
 <img width="1081" height="777" alt="image" src="https://github.com/user-attachments/assets/c3a0a911-d995-4ae6-acf9-45799508472d" />
 <img width="2000" height="1414" alt="558fa2e9-f17c-47ef-8f35-085241d76bb8" src="https://github.com/user-attachments/assets/1c6bde7a-2de2-4f90-93c7-1f84aedfe7f4" />
+<img width="1104" height="779" alt="Qualys-VM" src="https://github.com/user-attachments/assets/124bb2da-37bb-49f3-bfe8-bfd9adec5e17" />
 
 
 
