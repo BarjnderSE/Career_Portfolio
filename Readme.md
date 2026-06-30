@@ -48,6 +48,8 @@ Badges
 <img width="1081" height="777" alt="image" src="https://github.com/user-attachments/assets/c3a0a911-d995-4ae6-acf9-45799508472d" />
 <img width="2000" height="1414" alt="558fa2e9-f17c-47ef-8f35-085241d76bb8" src="https://github.com/user-attachments/assets/1c6bde7a-2de2-4f90-93c7-1f84aedfe7f4" />
 <img width="1104" height="779" alt="Qualys-VM" src="https://github.com/user-attachments/assets/124bb2da-37bb-49f3-bfe8-bfd9adec5e17" />
+<img width="1267" height="905" alt="image" src="https://github.com/user-attachments/assets/75a6a2fd-0c07-422b-b859-1165df26cda6" />
+
 
 
 
@@ -66,7 +68,8 @@ Check out my Lab Repositories below for my "Proof of Work" in SOC and Threat Hun
 
 
 
-<img width="1007" heig![THMSOC](https://github.com/user-attachments/assets/bec85d32-1b9d-4704-a29b-f7f923ab306c)
+
+<img width="944" height="561" alt="image" src="https://github.com/user-attachments/assets/bec85d32-1b9d-4704-a29b-f7f923ab306c)" />
 <img width="944" height="561" alt="image" src="https://github.com/user-attachments/assets/d3883937-edc7-45d5-8ad0-8e4c684233de" />
 
 <img width="1032" height="752" alt="image" src="https://github.com/user-attachments/assets/06ef7502-8af4-45d7-9584-3aa2f7e053dd" />
